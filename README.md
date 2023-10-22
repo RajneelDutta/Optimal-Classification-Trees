@@ -1,4 +1,4 @@
-# Optimal-Classifiaction-Trees
+# Optimal-Classification-Trees
 
 This repository contains code and results for my dissertation project on facial image classification using Convolutional Neural Networks (CNNs) and Optimal Classification Trees (OCTs). The goal is to leverage the feature learning capabilities of CNNs and the interpretability of tree-based models like OCTs to achieve both high accuracy and model transparency.
 Description
