@@ -29,7 +29,8 @@ Key results include:
 ## Reference
 
 Rajneel Dutta, Bridging the Accuracy-Interpretability Divide: A study on novel frameworks for Precise and Interpretable Classification, Lancaster University, 2023
-Contributing
+
+## Contributing
 
 Contributions and improvements to the code are welcome! Please open an issue first to discuss proposed changes.
 
